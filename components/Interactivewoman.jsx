@@ -1,6 +1,6 @@
 import styles from "@/components/Landing.module.css";
-import Brainhotspot from "./cards/brainHotspot";
-import Hearthotspot from "./cards/heartHotspot";
+// import Brainhotspot from "@/components/cards/Brainhotspot";
+// import Hearthotspot from "./cards/heartHotspot";
 
 const Interactivewoman = ({ message }) => {
   console.log(message);
